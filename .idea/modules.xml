@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/quick-imob.iml" filepath="$PROJECT_DIR$/.idea/quick-imob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/api.gabrielmuller.iml" filepath="$PROJECT_DIR$/.idea/api.gabrielmuller.iml" />
     </modules>
   </component>
 </project>

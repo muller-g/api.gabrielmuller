@@ -25,7 +25,7 @@ export default class MailController {
             await NodeMailer.sendMail(email, name, phone, msg);
 
             return {
-                body: "Success",
+                body: "Success ",
                 status: 200
             }
         }, MiddlewareAuth.middlewareAuth);
